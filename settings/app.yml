@@ -1,0 +1,10 @@
+db:
+  engine: "mysql"
+  user: "91atm_dev"
+  password: "91atm_dev"
+  host: "192.168.199.224"
+  port: 3307
+  database: "adx_platform"
+
+
+install_apps: ["example", ]
